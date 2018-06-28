@@ -80,7 +80,7 @@ $(document).ready(function() {
   $(function() {
     typed.typed({
       strings: ["Buy.", "Sell.", "Trade."],
-      typeSpeed: 100,
+      typeSpeed: 200,
       loop: true,
     });
   });
